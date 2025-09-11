@@ -1,0 +1,122 @@
+{
+  "agentic.txt": {
+    "stats": {
+      "num": 1523,
+      "avg": 689.5994747209455,
+      "std": 258.8355885574096,
+      "min": 2,
+      "max": 900
+    },
+    "cohesion": 0.7864326029252787,
+    "boundary_sharpness": 0.774158239364624,
+    "redundancy": 0.015303784981369972,
+    "score": 0.5604687392364399
+  },
+  "context_enriched.txt": {
+    "stats": {
+      "num": 1761,
+      "avg": 1369.5349233390118,
+      "std": 531.4324519054376,
+      "min": 92,
+      "max": 3314
+    },
+    "cohesion": 0.6614069407599545,
+    "boundary_sharpness": 0.4216358959674835,
+    "redundancy": 0.019188065081834793,
+    "score": 0.36907513533228137
+  },
+  "fixed_length.txt": {
+    "stats": {
+      "num": 1607,
+      "avg": 795.6116988176727,
+      "std": 6.95830323135655,
+      "min": 560,
+      "max": 800
+    },
+    "cohesion": 0.6836544894326453,
+    "boundary_sharpness": 0.6450133919715881,
+    "redundancy": 0.0169683787971735,
+    "score": 0.48700458088522114
+  },
+  "hybrid.txt": {
+    "stats": {
+      "num": 1288,
+      "avg": 783.694099378882,
+      "std": 186.164422323643,
+      "min": 68,
+      "max": 900
+    },
+    "cohesion": 0.5479815071275146,
+    "boundary_sharpness": 0.535147488117218,
+    "redundancy": 0.017881417647004128,
+    "score": 0.3915308341487055
+  },
+  "paragraph_based.txt": {
+    "stats": {
+      "num": 1245,
+      "avg": 898.5172690763052,
+      "std": 21.56199390819587,
+      "min": 141,
+      "max": 900
+    },
+    "cohesion": 0.662516581617206,
+    "boundary_sharpness": 0.7332600355148315,
+    "redundancy": 0.0177475456148386,
+    "score": 0.5152835926595558
+  },
+  "recursive.txt": {
+    "stats": {
+      "num": 1464,
+      "avg": 868.9275956284152,
+      "std": 367.118489312055,
+      "min": 2,
+      "max": 1200
+    },
+    "cohesion": 0.7676083062434457,
+    "boundary_sharpness": 0.6908518671989441,
+    "redundancy": 0.01714862696826458,
+    "score": 0.5466545145493735
+  },
+  "semantic.txt": {
+    "error": "empty vocabulary; perhaps the documents only contain stop words"
+  },
+  "sentence_based.txt": {
+    "stats": {
+      "num": 1761,
+      "avg": 723.8148779102783,
+      "std": 251.66400634543393,
+      "min": 1,
+      "max": 1707
+    },
+    "cohesion": 0.7677862972088797,
+    "boundary_sharpness": 0.6829562783241272,
+    "redundancy": 0.01572098210453987,
+    "score": 0.5284564452489173
+  },
+  "sliding_window.txt": {
+    "stats": {
+      "num": 966,
+      "avg": 846.9616977225672,
+      "std": 133.59984589358857,
+      "min": 111,
+      "max": 900
+    },
+    "cohesion": 0.5351492202923658,
+    "boundary_sharpness": 0.6179510354995728,
+    "redundancy": 0.01901492103934288,
+    "score": 0.4174570769280425
+  },
+  "subdocument.txt": {
+    "stats": {
+      "num": 1523,
+      "avg": 689.5994747209455,
+      "std": 258.8355885574096,
+      "min": 2,
+      "max": 900
+    },
+    "cohesion": 0.7864326029252787,
+    "boundary_sharpness": 0.774158239364624,
+    "redundancy": 0.015303784981369972,
+    "score": 0.5604687392364399
+  }
+}
